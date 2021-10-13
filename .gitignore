@@ -1,0 +1,11 @@
+/diff-npm-package.html
+/.eslintcache
+/node_modules
+/coverage
+/npmDist
+/denoDist
+/npm
+/deno
+/config
+/config.json
+/env.json
